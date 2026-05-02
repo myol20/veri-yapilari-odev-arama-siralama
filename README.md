@@ -74,36 +74,4 @@ python main.py
 
 ---
 
-   📊 Doğruluk Oranı (Deneysel - Test Bazlı)
-
-Algoritmalar farklı veri setleri üzerinde test edilmiştir. Kodlama hataları ve algoritma karmaşıklığı doğruluk oranını etkileyebilir.
-
-### 🔍 Arama Algoritmaları
-
-| Algoritma     | Doğruluk Oranı |
-| ------------- | -------------- |
-| Linear Search | 1.00           |
-| Binary Search | 0.92           |
-
----
-
-### 🔃 Sıralama Algoritmaları
-
-| Algoritma      | Doğruluk Oranı |
-| -------------- | -------------- |
-| Bubble Sort    | 1.00           |
-| Selection Sort | 0.98           |
-| Insertion Sort | 0.95           |
-| Merge Sort     | 0.91           |
-| Quick Sort     | 0.88           |
-
----
-
-## 🎯 Açıklama
-
-* Basit algoritmalar daha az hata içerdiği için doğruluk oranı yüksektir.
-* Karmaşık algoritmalarda (özellikle Quick Sort ve Merge Sort) indeks ve bölme hataları daha sık yapılabilir.
-* Bu nedenle doğruluk oranı veri setine ve implementasyona göre değişebilir.
-
-
-Küçük veri setlerinde basit algoritmalar yeterli olurken, büyük veri setlerinde Merge Sort ve Quick Sort daha verimlidir. Binary Search hızlıdır ancak sıralı veri gerektirir.
+  
