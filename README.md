@@ -71,7 +71,9 @@ Bu projede temel arama ve sıralama algoritmaları Python dili kullanılarak uyg
 ```bash
 python main.py
 ```
+Merge Sort ve Quick Sort büyük veri setlerinde daha verimlidir.
+Linear ve Bubble Sort küçük veri setlerinde tercih edilir. 
 
----
+
 
   
