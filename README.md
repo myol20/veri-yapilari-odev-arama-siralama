@@ -74,6 +74,10 @@ python main.py
 Merge Sort ve Quick Sort büyük veri setlerinde daha verimlidir.
 Linear ve Bubble Sort küçük veri setlerinde tercih edilir. 
 
+| Algoritma      | En İyi Durum | Ortalama Durum | En Kötü Durum | Genel Yorum                                                                |
+| -------------- | ------------ | -------------- | ------------- | -------------------------------------------------------------------------- |
+| **Merge Sort** | O(n log n)   | O(n log n)     | O(n log n)    | ⭐ Garantili performans, her durumda stabil çalışır                         |
+| **Quick Sort** | O(n log n)   | O(n log n)     | O(n²)         | 🚀 Pratikte en hızlı algoritmalardan biri, ama kötü pivotta yavaşlayabilir |
 
 
   
